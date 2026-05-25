@@ -17,9 +17,11 @@ Tailor your study based on how much time you have left:
 
 ## 📂 Content Inventory
 
--   **[FRQ Walkthroughs](frqs/)**: Gold-standard breakdowns of past Free Response Questions with logic maps and common point-loss traps.
+-   **[FRQ Questions](frqs/questions/links.md)**: Direct links to official College Board problem statements and scoring guidelines.
+-   **[FRQ Answers](frqs/answers/)**: Logic breakdowns, step-by-step solutions, and canonical Java code for past exams.
+-   **[FRQ Reviews](frqs/review/)**: Analysis of common traps, frequent wrong answers, and why they lose points.
 -   **[Syntax Review](syntax-review/)**: Focused guides on arrays, arraylists, strings, and the "common traps" that trip up students.
--   **[Error Log](error-log/)**: Learn to love your bugs. Practical guides on reading stack traces and debugging.
+-   **[Error Log](error-log/)**: Learn to love your bugs. Includes a **[Mistake Template](error-log/personal-mistake-log-template.md)** for students and the **[Blind-List Review Strategy](error-log/review-strategy.md)**.
 -   **[Resources](resources/)**: Curated links to the best external videos, documentation, and tools.
 
 ---

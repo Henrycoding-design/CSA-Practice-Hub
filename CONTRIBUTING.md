@@ -5,15 +5,16 @@ Thank you for your interest in contributing! Our goal is to provide high-quality
 ## How to Contribute
 
 1.  **Find an Issue**: Check our [Issue Tracker](https://github.com/your-repo/issues) for open tasks or "Good First Issues."
-2.  **Submit a New FRQ**: Use the template in `/frqs/template/` to ensure consistency.
-3.  **Report a Bug/Trap**: Found a common student mistake? Add it to `/syntax-review/common-traps.md` or the `/error-log/`.
-4.  **Formatting**: Ensure all Java code strictly follows the **AP Java Subset** (e.g., using `ArrayList` methods correctly, no `var` keyword, etc.).
+2.  **Submit a New FRQ Answer**: Use the template in `/frqs/template/answer-template.md`.
+3.  **Submit a New FRQ Review**: Use the template in `/frqs/template/review-template.md`.
+4.  **Report a Bug/Trap**: Found a common student mistake? Add it to `/syntax-review/common-traps.md` or the `/error-log/`.
+5.  **Formatting**: Ensure all Java code strictly follows the **AP Java Subset** (e.g., using `ArrayList` methods correctly, no `var` keyword, etc.).
 
 ## File Naming Conventions
 
 -   Directories: `kebab-case` (e.g., `syntax-review`)
 -   Markdown Files: `kebab-case.md` (e.g., `common-traps.md`)
--   FRQs: `YYYY-qN-title.md` (e.g., `2024-q1-word-games.md`)
+-   FRQ Answers/Reviews: `YYYY.md` (e.g., `frqs/answers/2024.md`)
 
 ## Code Snippet Standards
 
@@ -36,8 +37,8 @@ When adding a new trap to `common-traps.md`, use this structure:
 - **The "Why"**: Explanation of the underlying logic error.
 - **The Fix**: Correct code snippet.
 
-### Adding an FRQ Walkthrough
-Please use the gold-standard template located at `/frqs/template/frq-walkthrough-template.md`.
+### Adding an FRQ Breakdown
+Please use the templates located in `/frqs/template/`. Separate the technical solution (`answers/`) from the mistake analysis (`review/`).
 
 ---
 Questions? Feel free to open a discussion or reach out to the maintainers.
