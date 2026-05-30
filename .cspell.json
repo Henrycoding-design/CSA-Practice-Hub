@@ -8,6 +8,7 @@
     "Autoboxing",
     "CSA",
     "cspell",
+    "Distractor",
     "FRQ",
     "FRQs",
     "markdownlint",
@@ -31,7 +32,8 @@
   ],
   "ignorePaths": [
     "node_modules/**",
-    ".git/**"
+    ".git/**",
+    "mcqs/questions/**"
   ],
   "import": [
     "@cspell/dict-java/cspell-ext.json"
