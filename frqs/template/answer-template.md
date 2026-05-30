@@ -25,7 +25,7 @@
 
 ### Official Markscheme
 
-- [Scoring Guidelines](URL_HERE)
+- [Scoring Guidelines](https://apcentral.collegeboard.org/courses/ap-computer-science-a/exam)
 
 ---
 *Repeat for Questions 2, 3, and 4.*

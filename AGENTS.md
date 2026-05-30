@@ -8,7 +8,7 @@ This document outlines the standards and workflows for maintaining the **CSA-Pra
 We use `markdownlint` to maintain formatting consistency.
 - **Command**: `npx markdownlint-cli2 "**/*.md" "#node_modules"`
 - **Auto-fix**: `npx markdownlint-cli2 "**/*.md" "#node_modules" --fix`
-- **Standard**: All tables must be aligned. Headings and lists must have appropriate blank lines.
+- **Standard**: Follow basic Markdown structure. Strict layout rules (like blank lines around headers/lists) are relaxed to keep contributions simple.
 
 ### 2. Spell Checking
 We use `cspell` with a custom configuration to handle technical AP CSA terminology.

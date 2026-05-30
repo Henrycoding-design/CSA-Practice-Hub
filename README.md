@@ -1,7 +1,7 @@
 # AP CSA Practice Hub
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
-![Markdown Lint](https://github.com/Henrycoding-design/CSA-Practice-Hub/actions/workflows/markdown-lint.yml/badge.svg)
+![Markdown Lint](https://github.com/Henrycoding-design/CSA-Practice-Hub/actions/workflows/project-standards.yml/badge.svg)
 ![Link Check](https://github.com/Henrycoding-design/CSA-Practice-Hub/actions/workflows/link-check.yml/badge.svg)
 ![Release](https://img.shields.io/github/v/release/Henrycoding-design/CSA-Practice-Hub?include_prereleases)
 
