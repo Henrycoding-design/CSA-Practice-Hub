@@ -13,9 +13,9 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/License-MIT-yellow.svg">
-  <img src="https://github.com/Henrycoding-design/CSA-Practice-Hub/actions/workflows/project-standards.yml/badge.svg">
-  <img src="https://github.com/Henrycoding-design/CSA-Practice-Hub/actions/workflows/link-check.yml/badge.svg">
+  <img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="AP CSA Practice Hub Banner">
+  <img src="https://github.com/Henrycoding-design/CSA-Practice-Hub/actions/workflows/project-standards.yml/badge.svg" alt="AP CSA Practice Hub Banner">
+  <img src="https://github.com/Henrycoding-design/CSA-Practice-Hub/actions/workflows/link-check.yml/badge.svg" alt="AP CSA Practice Hub Banner">
 </p>
 
 <p align="center">
