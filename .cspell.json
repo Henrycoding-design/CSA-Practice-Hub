@@ -33,7 +33,8 @@
   "ignorePaths": [
     "node_modules/**",
     ".git/**",
-    "mcqs/questions/**"
+    "mcqs/questions/**",
+    "mcqs/answers/**"
   ],
   "import": [
     "@cspell/dict-java/cspell-ext.json"
