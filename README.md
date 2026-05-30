@@ -14,6 +14,7 @@
 
 *   **"I have the exam tomorrow"** → Go to [**Last Minute Review**](plans/last-minute-review.md)
 *   **"I want to practice FRQs"** → Open [**Official FRQ Links**](frqs/questions/links.md) then check [**Answers**](frqs/answers/)
+*   **"I want to practice MCQs"** → Go to [**MCQs practice sets**](mcqs/questions/) then check [**Answers**](mcqs/answers/)
 *   **"I keep making small syntax mistakes"** → Read the [**Common Traps**](syntax-review/common-traps.md)
 *   **"I'm lost on a specific topic"** → Pick one from the [**Syntax Review**](syntax-review/)
 
