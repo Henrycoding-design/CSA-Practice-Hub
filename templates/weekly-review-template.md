@@ -19,14 +19,14 @@
 
 ## Practice Completed
 
-| Day | Practice | Time | Score or result |
-| :--- | :--- | :--- | :--- |
-| Monday |  |  |  |
-| Tuesday |  |  |  |
-| Wednesday |  |  |  |
-| Thursday |  |  |  |
-| Friday |  |  |  |
-| Weekend |  |  |  |
+| Day       | Practice | Time | Score or result |
+| :-------- | :------- | :--- | :-------------- |
+| Monday    |          |      |                 |
+| Tuesday   |          |      |                 |
+| Wednesday |          |      |                 |
+| Thursday  |          |      |                 |
+| Friday    |          |      |                 |
+| Weekend   |          |      |                 |
 
 ## Weekly Reflection
 

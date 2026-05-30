@@ -25,10 +25,10 @@
 ## Trace Case
 
 | Step | Variable state | Expected result |
-| :--- | :--- | :--- |
-| 1 |  |  |
-| 2 |  |  |
-| 3 |  |  |
+| :--- | :------------- | :-------------- |
+| 1    |                |                 |
+| 2    |                |                 |
+| 3    |                |                 |
 
 ## Post-Practice Score
 

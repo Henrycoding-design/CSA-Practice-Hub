@@ -1,0 +1,40 @@
+name: Project Standards (Lint & Spell)
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "**/*.md"
+      - ".markdownlint.json"
+      - ".cspell.json"
+      - "AGENTS.md"
+      - ".github/workflows/project-standards.yml"
+  pull_request:
+    branches: [main]
+    paths:
+      - "**/*.md"
+      - ".markdownlint.json"
+      - ".cspell.json"
+      - "AGENTS.md"
+      - ".github/workflows/project-standards.yml"
+  workflow_dispatch:
+
+jobs:
+  validate:
+    name: Validate Standards
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Run Markdown Lint
+        run: npx markdownlint-cli2 "**/*.md" "#node_modules"
+
+      - name: Run Spell Check
+        run: npx cspell "**/*.md" --no-progress

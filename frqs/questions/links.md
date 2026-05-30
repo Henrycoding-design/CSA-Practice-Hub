@@ -5,9 +5,9 @@ Use the official problem statements and scoring guidelines as the source of trut
 | Year | Problem Statements | Scoring Guidelines |
 | :--- | :--- | :--- |
 | 2025 | [2025 FRQ](https://apcentral.collegeboard.org/media/pdf/ap25-frq-computer-science-a.pdf) | [2025 Scoring](https://apcentral.collegeboard.org/media/pdf/ap25-sg-computer-science-a.pdf) |
-| 2024 | [2024 FRQ](https://apcentral.collegeboard.org/media/pdf/ap24-frq-comp-sci-a.pdf) | [2024 Scoring](https://apcentral.collegeboard.org/media/pdf/ap24-sg-comp-sci-a.pdf) |
-| 2023 | [2023 FRQ](https://apcentral.collegeboard.org/media/pdf/ap23-frq-comp-sci-a.pdf) | [2023 Scoring](https://apcentral.collegeboard.org/media/pdf/ap23-sg-comp-sci-a.pdf) |
-| 2022 | [2022 FRQ](https://apcentral.collegeboard.org/media/pdf/ap22-frq-comp-sci-a.pdf) | [2022 Scoring](https://apcentral.collegeboard.org/media/pdf/ap22-sg-comp-sci-a.pdf) |
+| 2024 | [2024 FRQ](https://apcentral.collegeboard.org/media/pdf/ap24-frq-comp-sci-a.pdf) | [2024 Scoring](https://apcentral.collegeboard.org/media/pdf/ap24-sg-computer-science-a.pdf) |
+| 2023 | [2023 FRQ](https://apcentral.collegeboard.org/media/pdf/ap23-frq-comp-sci-a.pdf) | [2023 Scoring](https://apcentral.collegeboard.org/media/pdf/ap23-sg-computer-science-a.pdf) |
+| 2022 | [2022 FRQ](https://apcentral.collegeboard.org/media/pdf/ap22-frq-computer-science-a.pdf) |  |
 
 ## How to Use These Links
 

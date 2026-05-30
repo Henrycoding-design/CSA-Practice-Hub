@@ -1,0 +1,39 @@
+{
+  "version": "0.2",
+  "language": "en",
+  "words": [
+    "AP",
+    "ArrayList",
+    "ArrayLists",
+    "Autoboxing",
+    "CSA",
+    "cspell",
+    "FRQ",
+    "FRQs",
+    "markdownlint",
+    "markscheme",
+    "MCQ",
+    "MCQs",
+    "NullPointerException",
+    "ArrayIndexOutOfBoundsException",
+    "ConcurrentModificationException",
+    "ArithmeticException",
+    "ClassCastException",
+    "IllegalArgumentException",
+    "IndexOutOfBoundsException",
+    "Replit",
+    "Runestone",
+    "unboxing"
+  ],
+  "ignoreRegExpList": [
+    "/`[^`]*`/g",
+    "/```[\\s\\S]*?```/g"
+  ],
+  "ignorePaths": [
+    "node_modules/**",
+    ".git/**"
+  ],
+  "import": [
+    "@cspell/dict-java/cspell-ext.json"
+  ]
+}

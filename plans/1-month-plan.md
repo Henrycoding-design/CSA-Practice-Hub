@@ -12,6 +12,7 @@ This plan is for students who have a full month to prepare. It balances foundati
 | **Week 4** | Advanced & Review | Inheritance, Recursion, Final Mock Exam | Full-length timed practice |
 
 ## Goals for this Month
+
 - [ ] Complete all MCQ units on AP Classroom.
 - [ ] Understand the difference between `==` and `.equals()`.
 - [ ] Be able to traverse a 2D array using nested loops.

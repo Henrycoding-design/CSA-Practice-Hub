@@ -15,5 +15,6 @@ Two weeks left? It's time to prioritize the topics that appear most frequently o
 | **Day 13-14** | Weak Spot Cleanup | Review the `error-log/common-errors.md`. |
 
 ## Pacing Strategy
+
 - **MCQ**: 90 minutes for 40 questions (~2.25 mins per question).
 - **FRQ**: 90 minutes for 4 questions (~22 mins per question).
