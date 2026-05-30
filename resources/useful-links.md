@@ -1,9 +1,15 @@
 # Useful Links for AP CSA
 
-Here are some high-quality external resources to supplement your study.
+This page is kept as a quick index for older bookmarks. The expanded resource pages are:
 
--   **[College Board AP CSA Course Page](https://apstudents.collegeboard.org/courses/ap-computer-science-a)**: Official course description and exam info.
--   **[Runestone Academy (CSA Awesome)](https://runestone.academy/runestone/books/published/csawesome/index.html)**: Free, interactive textbook.
--   **[CodingBat](https://codingbat.com/java)**: Excellent practice problems for logic, strings, and arrays.
--   **[Practice-It](https://practiceit.cs.washington.edu/)**: Large collection of practice problems from University of Washington.
--   **[Albert.io AP CSA](https://www.albert.io/ap-computer-science-a)**: High-quality practice MCQs (subscription required).
+- [Official links](official-links.md)
+- [Videos](videos.md)
+- [Practice sites](practice-sites.md)
+- [Textbooks and long-form references](textbooks.md)
+
+## Quick Picks
+
+- [College Board AP CSA course page](https://apstudents.collegeboard.org/courses/ap-computer-science-a)
+- [AP CSA past exam questions](https://apcentral.collegeboard.org/courses/ap-computer-science-a/exam/past-exam-questions)
+- [CSAwesome 2](https://runestone.academy/runestone/books/published/csawesome2/index.html)
+- [CodingBat Java](https://codingbat.com/java)

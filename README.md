@@ -1,51 +1,66 @@
 # AP CSA Practice Hub
 
-> **Practical AP CSA revision focused on mistakes, debugging, and realistic preparation.**
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Markdown Lint](https://github.com/Henrycoding-design/CSA-Practice-Hub/actions/workflows/markdown-lint.yml/badge.svg)
+![Link Check](https://github.com/Henrycoding-design/CSA-Practice-Hub/actions/workflows/link-check.yml/badge.svg)
+![Release](https://img.shields.io/github/v/release/Henrycoding-design/CSA-Practice-Hub?include_prereleases)
 
-Welcome to the AP CSA Practice Hub! This repository is designed to be your ultimate companion for mastering the AP Computer Science A exam. We focus on common pitfalls, high-yield topics, and practical logic to help you move beyond just knowing the syntax.
+> Practical AP Computer Science A review focused on syntax fluency, FRQ reasoning, debugging, and exam-ready habits.
 
----
+AP CSA Practice Hub is an open-source study companion for students preparing for the AP Computer Science A exam. It organizes review material around the way students actually lose points: missed edge cases, weak loop logic, incorrect `ArrayList` mutation, unclear FRQ explanations, and avoidable Java syntax mistakes.
 
-## 🚀 Start Here
-Tailor your study based on how much time you have left:
+This project is not affiliated with or endorsed by College Board.
 
-*   **[1 Month Left](plans/1-month-plan.md)** - Comprehensive foundation building and weak-spot identification.
-*   **[2 Weeks Left](plans/2-week-plan.md)** - High-yield topic focus and pacing strategy.
-*   **[Cramming / Last Minute](plans/last-minute-review.md)** - The "Don't Panic" checklist and exam-day essentials.
+## Who It Is For
 
----
+- AP CSA students who want structured practice instead of random review links.
+- Teachers and tutors who need reusable FRQ, syntax, and debugging resources.
+- Study groups that want shared templates for timed practice and mistake review.
+- Contributors who want to improve open educational material for Java learners.
 
-## 📂 Content Inventory
-
--   **[FRQ Questions](frqs/questions/links.md)**: Direct links to official College Board problem statements and scoring guidelines.
--   **[FRQ Answers](frqs/answers/)**: Logic breakdowns, step-by-step solutions, and canonical Java code for past exams.
--   **[FRQ Reviews](frqs/review/)**: Analysis of common traps, frequent wrong answers, and why they lose points.
--   **[Syntax Review](syntax-review/)**: Focused guides on arrays, arraylists, strings, and the "common traps" that trip up students.
--   **[Error Log](error-log/)**: Learn to love your bugs. Includes a **[Mistake Template](error-log/personal-mistake-log-template.md)** for students and the **[Blind-List Review Strategy](error-log/review-strategy.md)**.
--   **[Resources](resources/)**: Curated links to the best external videos, documentation, and tools.
-
----
-
-## 🗺️ Directory Map
+## Directory Map
 
 ```text
-ap-csa-practice-hub/
-├── plans/             # Study schedules (1-month, 2-weeks, Last Minute)
-├── frqs/              # FRQ breakdowns by year & templates
-├── syntax-review/     # Java language deep-dives & traps
-├── error-log/         # Debugging guides & common exception fixes
-└── resources/         # External links & video lists
+CSA-Practice-Hub/
+├── .github/          # Issue templates, PR template, and CI workflows
+├── dev/              # Planning notes for maintainers
+├── error-log/        # Debugging guides and mistake patterns
+├── frqs/             # Official links, answer guides, reviews, and templates
+├── plans/            # Study schedules and release checklists
+├── resources/        # Official links, videos, practice sites, and textbooks
+├── syntax-review/    # Java syntax review for AP CSA topics
+└── templates/        # Student workflow templates
 ```
 
----
+## Quick Start
 
-## 🤝 Ecosystem
-This project is a sister project to **Academic Oracle**. While Academic Oracle provides broad educational support, the AP CSA Practice Hub is a surgical, exam-focused deep dive.
+1. Open `plans/1-month-plan.md`, `plans/2-week-plan.md`, or `plans/last-minute-review.md`.
+2. Review one topic in `syntax-review/`.
+3. Complete one official FRQ from `frqs/questions/links.md`.
+4. Compare your work with the matching guide in `frqs/answers/`.
+5. Record mistakes using `templates/mistake-log-template.md`.
 
----
+## Recommended Study Flow
 
-## ❤️ Contributing
-We welcome contributions from educators and students! Please see our **[CONTRIBUTING.md](CONTRIBUTING.md)** for guidelines on how to add new FRQs or syntax traps.
+1. Syntax Review
+2. FRQ Practice
+3. Error Log Review
+4. Timed Practice
+5. Exam Simulation
 
----
-*Disclaimer: This project is not affiliated with or endorsed by the College Board.*
+## Study Paths
+
+- **Foundation path:** arrays, strings, classes and objects, then inheritance.
+- **FRQ path:** official prompt, handwritten solution, answer guide, review notes.
+- **Debugging path:** common errors, null pointer errors, index errors, logic errors.
+- **Exam path:** weekly review, timed FRQ template, full exam simulation template.
+
+## Contributing
+
+Contributions are welcome from students, teachers, tutors, and maintainers. Start with `CONTRIBUTING.md`, choose an issue template in `.github/ISSUE_TEMPLATE/`, and open a pull request using `.github/PULL_REQUEST_TEMPLATE.md`.
+
+Good first contributions include typo fixes, clearer examples, verified resource links, FRQ review improvements, and new student-facing practice prompts.
+
+## License
+
+This project is licensed under the MIT License. See `LICENSE` for details.

@@ -1,0 +1,51 @@
+name: FRQ submission
+description: Add or improve an FRQ answer guide or review page.
+title: "[FRQ]: "
+labels:
+  - frq
+  - content
+body:
+  - type: input
+    id: year
+    attributes:
+      label: Exam year
+      description: Which AP CSA exam year does this contribution cover?
+      placeholder: "2024"
+    validations:
+      required: true
+  - type: dropdown
+    id: section
+    attributes:
+      label: Section
+      options:
+        - answers
+        - review
+        - questions
+        - template
+    validations:
+      required: true
+  - type: textarea
+    id: summary
+    attributes:
+      label: Proposed change
+      description: Describe the answer guide, review note, or correction.
+    validations:
+      required: true
+  - type: textarea
+    id: sources
+    attributes:
+      label: Sources
+      description: Link official prompts, scoring guidelines, or other verified references.
+    validations:
+      required: true
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: Checklist
+      options:
+        - label: I did not copy full College Board prompt text.
+          required: true
+        - label: I checked links and references.
+          required: true
+        - label: I separated solution logic from review/mistake analysis.
+          required: true

@@ -1,8 +1,24 @@
-# Recommended AP CSA Videos
+# Videos
 
-Visual learners should check out these creators.
+## Official
 
--   **[College Board AP Daily Videos](https://myap.collegeboard.org/)**: Short, focused videos on every topic in the course.
--   **[Advanced Placement (Official YouTube)](https://www.youtube.com/user/advancedplacement)**: Full-length review sessions (especially the "AP Live" series).
--   **[Ajay Gandecha - AP CSA Review](https://www.youtube.com/c/AjayGandecha)**: Clear walkthroughs of concepts and FRQs.
--   **[Barron's AP CSA Prep](https://www.youtube.com/results?search_query=barron%27s+ap+csa)**: Review videos from a popular prep book series.
+- [AP Daily videos through AP Classroom](https://myap.collegeboard.org/)
+- [Advanced Placement YouTube channel](https://www.youtube.com/user/advancedplacement)
+
+## College Board
+
+- Use AP Daily for unit-by-unit review.
+- Use official review sessions near exam season.
+- Pair each video with one written code trace.
+
+## Practice
+
+- [CSAwesome on Runestone](https://runestone.academy/runestone/books/published/csawesome2/index.html)
+- [CodingBat Java practice](https://codingbat.com/java)
+
+## How to Use Videos
+
+1. Watch at normal speed first.
+2. Pause and hand-trace every code example.
+3. Rebuild one example from memory.
+4. Add confusing points to your weekly review.

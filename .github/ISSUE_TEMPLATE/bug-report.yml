@@ -1,0 +1,35 @@
+name: Bug report
+description: Report a broken link, typo, workflow issue, or incorrect explanation.
+title: "[Bug]: "
+labels:
+  - bug
+body:
+  - type: input
+    id: location
+    attributes:
+      label: Location
+      description: File path, heading, or link where the issue appears.
+      placeholder: syntax-review/arrays.md
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: Problem
+      description: What is wrong or confusing?
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: Expected fix
+      description: What should the page or workflow do instead?
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: Checklist
+      options:
+        - label: I checked whether this was already reported.
+          required: true
+        - label: I did not include private or sensitive data.
+          required: true

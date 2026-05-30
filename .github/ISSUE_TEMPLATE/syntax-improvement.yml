@@ -1,0 +1,36 @@
+name: Syntax improvement
+description: Improve a Java syntax review page.
+title: "[Syntax]: "
+labels:
+  - syntax
+  - content
+body:
+  - type: input
+    id: topic
+    attributes:
+      label: Topic
+      placeholder: recursion, inheritance, arrays
+    validations:
+      required: true
+  - type: textarea
+    id: issue
+    attributes:
+      label: What should improve?
+      description: Explain the confusing section, missing example, or incorrect explanation.
+    validations:
+      required: true
+  - type: textarea
+    id: example
+    attributes:
+      label: Suggested example
+      description: Add a short AP CSA-compatible Java example if useful.
+      render: java
+  - type: checkboxes
+    id: checklist
+    attributes:
+      label: Checklist
+      options:
+        - label: The suggestion is relevant to AP CSA.
+          required: true
+        - label: Any code uses course-appropriate Java.
+          required: true

@@ -1,13 +1,18 @@
 # Official College Board FRQ Links
 
-Access the original problem statements and scoring guidelines directly from the source.
+Use the official problem statements and scoring guidelines as the source of truth. This repository summarizes strategy and review patterns, but it does not reproduce full College Board prompts.
 
-| Year | Problem Statements (PDF) | Scoring Guidelines (PDF) |
+| Year | Problem Statements | Scoring Guidelines |
 | :--- | :--- | :--- |
-| **2024** | [2024 FRQ](https://apcentral.collegeboard.org/media/pdf/ap24-frq-comp-sci-a.pdf) | [2024 Scoring](https://apcentral.collegeboard.org/media/pdf/ap24-sg-comp-sci-a.pdf) |
-| **2023** | [2023 FRQ](https://apcentral.collegeboard.org/media/pdf/ap23-frq-comp-sci-a.pdf) | [2023 Scoring](https://apcentral.collegeboard.org/media/pdf/ap23-sg-comp-sci-a.pdf) |
-| **2022** | [2022 FRQ](https://apcentral.collegeboard.org/media/pdf/ap22-frq-comp-sci-a.pdf) | [2022 Scoring](https://apcentral.collegeboard.org/media/pdf/ap22-sg-comp-sci-a.pdf) |
-| **2021** | [2021 FRQ](https://apcentral.collegeboard.org/media/pdf/ap21-frq-comp-sci-a.pdf) | [2021 Scoring](https://apcentral.collegeboard.org/media/pdf/ap21-sg-comp-sci-a.pdf) |
-| **2019** | [2019 FRQ](https://apcentral.collegeboard.org/media/pdf/ap19-frq-computer-science-a.pdf) | [2019 Scoring](https://apcentral.collegeboard.org/media/pdf/ap19-sg-computer-science-a.pdf) |
+| 2025 | [2025 FRQ](https://apcentral.collegeboard.org/media/pdf/ap25-frq-computer-science-a.pdf) | [2025 Scoring](https://apcentral.collegeboard.org/media/pdf/ap25-sg-computer-science-a.pdf) |
+| 2024 | [2024 FRQ](https://apcentral.collegeboard.org/media/pdf/ap24-frq-comp-sci-a.pdf) | [2024 Scoring](https://apcentral.collegeboard.org/media/pdf/ap24-sg-comp-sci-a.pdf) |
+| 2023 | [2023 FRQ](https://apcentral.collegeboard.org/media/pdf/ap23-frq-comp-sci-a.pdf) | [2023 Scoring](https://apcentral.collegeboard.org/media/pdf/ap23-sg-comp-sci-a.pdf) |
+| 2022 | [2022 FRQ](https://apcentral.collegeboard.org/media/pdf/ap22-frq-comp-sci-a.pdf) | [2022 Scoring](https://apcentral.collegeboard.org/media/pdf/ap22-sg-comp-sci-a.pdf) |
 
-*Note: 2020 was a modified exam year due to COVID-19 and is generally not used for standard practice.*
+## How to Use These Links
+
+1. Attempt the official prompt under timed conditions.
+2. Mark every requirement in the prompt before writing code.
+3. Compare your work against the scoring guidelines.
+4. Read the matching review guide in `frqs/review/`.
+5. Log repeat mistakes in `templates/mistake-log-template.md`.

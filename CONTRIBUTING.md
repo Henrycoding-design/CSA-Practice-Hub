@@ -1,44 +1,56 @@
 # Contributing to AP CSA Practice Hub
 
-Thank you for your interest in contributing! Our goal is to provide high-quality, practical resources for AP CSA students. We value clarity, accuracy, and adherence to the AP Java Subset.
+Thanks for helping improve AP CSA Practice Hub. This project values accuracy, plain explanations, and resources that students can actually use during exam prep.
 
-## How to Contribute
+## Fork Workflow
 
-1.  **Find an Issue**: Check our [Issue Tracker](https://github.com/your-repo/issues) for open tasks or "Good First Issues."
-2.  **Submit a New FRQ Answer**: Use the template in `/frqs/template/answer-template.md`.
-3.  **Submit a New FRQ Review**: Use the template in `/frqs/template/review-template.md`.
-4.  **Report a Bug/Trap**: Found a common student mistake? Add it to `/syntax-review/common-traps.md` or the `/error-log/`.
-5.  **Formatting**: Ensure all Java code strictly follows the **AP Java Subset** (e.g., using `ArrayList` methods correctly, no `var` keyword, etc.).
+1. Fork the repository.
+2. Create a focused branch from `main`.
+3. Make one logical change per pull request.
+4. Check formatting and links before submitting.
+5. Open a pull request using `.github/PULL_REQUEST_TEMPLATE.md`.
 
-## File Naming Conventions
+## Branch Naming
 
--   Directories: `kebab-case` (e.g., `syntax-review`)
--   Markdown Files: `kebab-case.md` (e.g., `common-traps.md`)
--   FRQ Answers/Reviews: `YYYY.md` (e.g., `frqs/answers/2024.md`)
+Use short kebab-case names with a clear prefix:
 
-## Code Snippet Standards
+- `docs/readme-study-flow`
+- `frq/2024-review-update`
+- `syntax/recursion-examples`
+- `resource/codingbat-links`
+- `fix/link-check-issue`
 
-All code blocks must specify the language as `java` and follow clean formatting:
+## Contribution Areas
 
-```java
-// Good example: Clear and commented
-public class Example {
-    public static void main(String[] args) {
-        System.out.println("Hello, AP CSA!");
-    }
-}
-```
+- `docs/*`: repository documentation, release notes, and project guidance.
+- `frq/*`: FRQ answer guides, review notes, official links, and templates.
+- `syntax/*`: Java syntax explanations, examples, and AP CSA traps.
+- `resource/*`: official links, videos, practice sites, IDEs, and textbooks.
 
-## Templates
+The repository uses `frqs/`, `syntax-review/`, and `resources/` as directory names. The category labels above describe the type of contribution.
 
-### Adding a Syntax Trap
-When adding a new trap to `common-traps.md`, use this structure:
-- **The Trap**: Short description of the mistake.
-- **The "Why"**: Explanation of the underlying logic error.
-- **The Fix**: Correct code snippet.
+## Pull Request Requirements
 
-### Adding an FRQ Breakdown
-Please use the templates located in `/frqs/template/`. Separate the technical solution (`answers/`) from the mistake analysis (`review/`).
+- Link to the related issue when one exists.
+- Explain what changed and why it helps students.
+- Verify that links work.
+- Use fenced code blocks with the correct language, such as `java`.
+- Avoid invented sources, fake citations, or AI-hallucinated references.
+- Keep official College Board content as links or short summaries; do not copy full prompts.
 
----
-Questions? Feel free to open a discussion or reach out to the maintainers.
+## Style Guide
+
+- Write for a student who is smart, stressed, and short on time.
+- Prefer examples over abstract rules.
+- Use AP CSA-compatible Java; avoid features outside the expected course subset.
+- Name files in kebab-case, such as `classes-objects.md`.
+- Keep headings descriptive and consistent.
+- Separate answer logic from mistake analysis when writing FRQ material.
+
+## Review Checklist
+
+- Formatting is readable in Markdown preview.
+- Java snippets compile conceptually and use clear variable names.
+- New resources are relevant to AP CSA.
+- The change matches the existing repository structure.
+- No sensitive data, private notes, credentials, or student information is included.
