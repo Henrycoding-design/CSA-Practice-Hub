@@ -1,10 +1,45 @@
-# 🎓 AP CSA Practice Hub
+<p align="center">
+  <img src="public/bg.jpg" alt="AP CSA Practice Hub Banner" width="100%">
+</p>
 
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
-![Markdown Lint](https://github.com/Henrycoding-design/CSA-Practice-Hub/actions/workflows/project-standards.yml/badge.svg)
-![Link Check](https://github.com/Henrycoding-design/CSA-Practice-Hub/actions/workflows/link-check.yml/badge.svg)
+<h1 align="center">🎓 AP CSA Practice Hub</h1>
 
-**Your shortcut to a 5 in AP Computer Science A.** This hub focuses on the common "point-killers": loop logic, `ArrayList` traps, and FRQ reasoning.
+<p align="center">
+  <strong>FRQs • MCQs • Java Review • Study Plans • Exam Prep</strong>
+</p>
+
+<p align="center">
+  An open-source AP Computer Science A study hub built by students, for students.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/License-MIT-yellow.svg">
+  <img src="https://github.com/Henrycoding-design/CSA-Practice-Hub/actions/workflows/project-standards.yml/badge.svg">
+  <img src="https://github.com/Henrycoding-design/CSA-Practice-Hub/actions/workflows/link-check.yml/badge.svg">
+</p>
+
+<p align="center">
+  <a href="#-where-to-start">Start Here</a> •
+  <a href="#-fast-navigation">Resources</a> •
+  <a href="#-contributing">Contributing</a>
+</p>
+
+---
+
+### Why this repository?
+
+Many AP CSA students struggle not because the concepts are impossible, but because resources are scattered across dozens of websites, videos, and documents.
+
+This hub brings everything together:
+
+✅ Official FRQ archives  
+✅ MCQ practice sets  
+✅ Syntax reviews and common traps  
+✅ Debugging guides and error logs  
+✅ Structured study plans  
+✅ Community-driven improvements
+
+**Spend less time searching for resources and more time learning Java.**
 
 ---
 
