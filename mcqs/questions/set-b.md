@@ -71,6 +71,7 @@ for (int i = 0; i < arr.length / 2; i++) {
 Which of the following code segments correctly doubles every element in an array `int[] data`?
 
 I.
+
 ```java
 for (int x : data) {
     x = x * 2;
@@ -78,6 +79,7 @@ for (int x : data) {
 ```
 
 II.
+
 ```java
 for (int i = 0; i < data.length; i++) {
     data[i] *= 2;
@@ -85,6 +87,7 @@ for (int i = 0; i < data.length; i++) {
 ```
 
 III.
+
 ```java
 int i = 0;
 while (i < data.length) {

@@ -341,7 +341,7 @@ Sum: 4 + 3 + 2 + 1 = 10.
 ### Distractor Analysis
 - **(A)**: Just the input value.
 - **(B)**: Incorrect summation.
-- **(D)**: This would be the result of a factorial (4 * 3 * 2 * 1).
+- **(D)**: This would be the result of a factorial (4 *3* 2 * 1).
 
 ### AP CSA Unit / Topic
 - **Unit 4**: Data Collections (Recursion Tracing)
@@ -361,7 +361,7 @@ This is a "head recursion" example. The print statement occurs *after* the recur
 5. `trace(1)` prints "1 "
 6. `trace(2)` prints "2 "
 7. `trace(3)` prints "3 "
-Output: `1 2 3 `
+Output: `1 2 3`
 
 ### Distractor Analysis
 - **(A)**: This would happen if the print statement was *before* the recursive call (tail recursion).
